@@ -15,3 +15,8 @@ id = "75c46fad36ca4e7780ec2287ed8f44da"
 [[kv_namespaces]]
 binding = "empty_hall_test"
 id = "2b687cca036d471c8ecb27e90dc42f9f"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "empty-hall-test"
+database_id = "a8a7cfa9-f2cc-4fdc-89b6-c3836c48f37e"
