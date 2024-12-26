@@ -7,3 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 
 # Assets used for files and cache priming.
 assets = { directory = ".open-next/assets", binding = "ASSETS" }
+
+[[kv_namespaces]]
+binding = "NEXT_CACHE_WORKERS_KV_EMPTY_HALL"
+id = "75c46fad36ca4e7780ec2287ed8f44da"
